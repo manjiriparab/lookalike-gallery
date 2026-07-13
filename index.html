@@ -229,7 +229,7 @@ function initials(name){
 
 function tileHTML(person, colorIndex){
   const bg = person.photo
-    ? `center/cover no-repeat url('${person.photo}')`
+    ? `top/cover no-repeat url('${person.photo}')`
     : gradients[colorIndex % gradients.length];
   const label = person.photo ? "" : initials(person.name);
   return `
