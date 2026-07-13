@@ -35,6 +35,12 @@
         { "name": "Renee Kujur", "bio": "Indian fashion model", "photo": "https://www.grazia.fr/wp-content/uploads/grazia/2018/07/renee-kujur-mannequin-sosie-indien-rihanna-3-308x410.jpg" },
         { "name": "Robyn Rihanna Fenty", "bio": "Barbadian singer, songwriter, businesswoman, and actress", "photo": "https://i.pinimg.com/736x/c6/b1/f4/c6b1f4cf31e1bbbfd4d360a0824d539d.jpg" }
       ]
+    },
+    {
+      "people": [
+        { "name": "Nauheed Cyrusi", "bio": "Indian film actress", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGT_UpwlAaNOOWdqEmSmoF9FvzqX1D8-5zS83ukRPO5DCcfZAqtp4Xw8&s=10" },
+        { "name": "Kiara Advani", "bio": "Indian film actress", "photo": "https://blackhattalent.com/wp-content/uploads/2024/01/Kiara-Advani5.png" }
+      ]
     }
   ]
 }
