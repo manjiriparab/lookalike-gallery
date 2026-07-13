@@ -41,6 +41,12 @@
         { "name": "Nauheed Cyrusi", "bio": "Indian film actress", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGT_UpwlAaNOOWdqEmSmoF9FvzqX1D8-5zS83ukRPO5DCcfZAqtp4Xw8&s=10" },
         { "name": "Kiara Advani", "bio": "Indian film actress", "photo": "https://blackhattalent.com/wp-content/uploads/2024/01/Kiara-Advani5.png" }
       ]
+    },
+    {
+      "people": [
+        { "name": "Tejaswini Pandit ", "bio": "Indian actress in Marathi ", "photo": "https://images.bhaskarassets.com/web2images/521/2022/12/20/te_1671518880.jpeg" },
+        { "name": "Emma D'Arcy", "bio": "English actor", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHvgyvsfQ_YKivADzBgpSboVuu4oDqmTzevRk8CQ5bwEKI0k_kLXSOcII&s=10" }
+      ]
     }
   ]
 }
