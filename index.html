@@ -256,7 +256,6 @@ function render(query){
 
   grid.innerHTML = filtered.map(g => `
     <div class="group">
-      <div class="connector">${g.people.length} lookalikes</div>
       <div class="tiles">
         ${g.people.map((p, i) => tileHTML(p, i)).join("")}
       </div>
