@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "people": [
+        { "name": "Alex R.", "bio": "Marketing exec from Austin", "photo": "" },
+        { "name": "Timothée Chalamet", "bio": "Actor, Dune & Wonka", "photo": "" },
+        { "name": "Ansel Elgort", "bio": "Actor & musician", "photo": "" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "Priya S.", "bio": "Graphic designer from Mumbai", "photo": "" },
+        { "name": "Alia Bhatt", "bio": "Actor, Raazi & Gangubai", "photo": "" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "Jordan M.", "bio": "Barista & part-time model", "photo": "" },
+        { "name": "Zendaya", "bio": "Actor, Dune & Euphoria", "photo": "" }
+      ]
+    }
+  ]
+}
