@@ -2,9 +2,8 @@
   "groups": [
     {
       "people": [
-        { "name": "Alex R.", "bio": "Marketing exec from Austin", "photo": "" },
-        { "name": "Timothée Chalamet", "bio": "Actor, Dune & Wonka", "photo": "" },
-        { "name": "Ansel Elgort", "bio": "Actor & musician", "photo": "" }
+        { "name": "Anushka Sharma", "bio": "Indian film actress", "photo": "https://static.toiimg.com/photo/34470545.cms?imgsize=132419" },
+        { "name": "Julia Carin Michaels", "bio": "American singer and songwriter", "photo": "https://dailycollegian.com/wp-content/uploads/2019/02/Julia-Michaels-900x900.jpg" },
       ]
     },
     {
