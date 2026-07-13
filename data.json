@@ -14,8 +14,20 @@
     },
     {
       "people": [
-        { "name": "Jordan M.", "bio": "Barista & part-time model", "photo": "" },
-        { "name": "Zendaya", "bio": "Actor, Dune & Euphoria", "photo": "" }
+        { "name": "Aishwarya Rai Bachchan", "bio": "Indian film actress", "photo": "https://images.indianexpress.com/2017/08/ash-4.jpg?w=350" },
+        { "name": "Sneha Ullal", "bio": "Indian film actress", "photo": "https://cdn.bollywoodmdb.com/fit-in/celebrities/images-1/600x600/sneha-ullal-686.jpg" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "Tamannaah Bhatia", "bio": "Indian film actress", "photo": "https://i.pinimg.com/736x/25/76/23/257623bcf2a746987111c3d680699f8c.jpg" },
+        { "name": "Jannat Zubair", "bio": "Indian film actress", "photo": "https://sm.mashable.com/t/mashable_in/photo/default/web-story-7_5zan.720.jpg" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "Bhumi Pednekar", "bio": "Indian film actress", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZxsMjx4wv9D0YLJ0570ybG4L0sYl1DW3h_Ww_V-gODdwz6eXIlGGTWo&s=10" },
+        { "name": "Ahsaas Channa", "bio": "Indian film actress", "photo": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2024/07/04094554/IMG_7682-min-538x806.jpg" }
       ]
     }
   ]
