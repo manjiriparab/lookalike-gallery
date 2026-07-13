@@ -8,8 +8,8 @@
     },
     {
       "people": [
-        { "name": "Priya S.", "bio": "Graphic designer from Mumbai", "photo": "" },
-        { "name": "Alia Bhatt", "bio": "Actor, Raazi & Gangubai", "photo": "" }
+        { "name": "Preity G. Zinta", "bio": "Indian film actress", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2A8qQGcwPJLp9G6QA2w-yRdXoU9KzxoEK3KXWCzyDG3_if_n-fZSSs0Y&s=10" },
+        { "name": "Monica Bellucci ", "bio": "Italian actress", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpIHDxVZorfIKF5u5aF4DQAHuhaop5tEqDPG-AQyss-xiEXNbyw20vfYS&s=10" }
       ]
     },
     {
