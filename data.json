@@ -53,6 +53,13 @@
         { "name": "Rakul Preet Singh", "bio": "Indian film actress", "photo": "https://i.pinimg.com/736x/26/8e/9c/268e9cae9de9c1f75517718b07996746.jpg" },
         { "name": "Sargun Mehta", "bio": "Indian Television Actress", "photo": "https://wallpaperaccess.com/full/9253310.jpg" }
       ]
+    },
+    {
+      "people": [
+        { "name": "Hritik Roshan", "bio": "Indian film actor", "photo": "https://i.pinimg.com/474x/2d/17/ac/2d17ac272a2257e62b83cb8939fd18c1.jpg" },
+        { "name": "Harman Baweja", "bio": "Indian film actor", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcRpIIcN2QtjXCwejR-w__HqYzP2P_Yw3TJuVYC_ydD7kuW2uKJtB_x33&s=10" }
+      ]
     }
+    
   ]
 }
