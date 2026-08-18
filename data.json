@@ -44,8 +44,14 @@
     },
     {
       "people": [
-        { "name": "Tejaswini Pandit ", "bio": "Indian actress in Marathi ", "photo": "https://images.bhaskarassets.com/web2images/521/2022/12/20/te_1671518880.jpeg" },
+        { "name": "Tejaswini Pandit", "bio": "Indian Marathi film actress", "photo": "https://images.bhaskarassets.com/web2images/521/2022/12/20/te_1671518880.jpeg" },
         { "name": "Emma D'Arcy", "bio": "English actor", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHvgyvsfQ_YKivADzBgpSboVuu4oDqmTzevRk8CQ5bwEKI0k_kLXSOcII&s=10" }
+      ]
+    },
+    {
+      "people": [
+        { "name": "Rakul Preet Singh", "bio": "Indian film actress", "photo": "https://i.pinimg.com/736x/26/8e/9c/268e9cae9de9c1f75517718b07996746.jpg" },
+        { "name": "Sargun Mehta", "bio": "Indian Television Actress", "photo": "https://wallpaperaccess.com/full/9253310.jpg" }
       ]
     }
   ]
