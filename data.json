@@ -59,7 +59,12 @@
         { "name": "Hritik Roshan", "bio": "Indian film actor", "photo": "https://i.pinimg.com/474x/2d/17/ac/2d17ac272a2257e62b83cb8939fd18c1.jpg" },
         { "name": "Harman Baweja", "bio": "Indian film actor", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcRpIIcN2QtjXCwejR-w__HqYzP2P_Yw3TJuVYC_ydD7kuW2uKJtB_x33&s=10" }
       ]
+    },
+    {
+      "people": [
+        { "name": "Akshay Kumar", "bio": "Indian film actor", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrUMePml3lquK7p-AKxDTSU_rqWheUEPCgMrTjQwyxF4itKJJpmwmpypz&s=10" },
+        { "name": "Paddy Considine", "bio": "English actor, director, screenwriter and musician", "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eCnmmrqoWXQaSJFbWpyRtMa706oqSBEXzvMIm3KqRk2OLTtFfMyh9M0&s=10" }
+      ]
     }
-    
   ]
 }
